@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+Tools/Oracle/.build/
+Vendor/download/
+.DS_Store
